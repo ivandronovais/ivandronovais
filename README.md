@@ -1,7 +1,7 @@
 ### Olá! Sou o Ivandro :D 👋
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Atualmente estudando React, TypeScript e Node.js e Express
+- 🌱 Atualmente estudando React, TypeScript, Node.js e Express
 <div align="center">
   <a href="https://github.com/ivandronovais">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ivandronovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
