@@ -22,5 +22,5 @@
   <img class="icon" align="center" alt="Ivan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img class="icon" align="center" alt="Ivan-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
-![github contribution grid snake animation](https://raw.githubusercontent.com/ivnovais/ivnovais/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ivnovais/ivnovais/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
